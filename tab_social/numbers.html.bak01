@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html dir=rtl>
+<head>
+<title>favorite - students - numbers   </title>
+
+<meta charset="utf-8">
+	<script language="JavaScript" src="http://aux.shenkar.ac.il/656/group4/website/Menu.js"></script>
+	<script src="http://aux.shenkar.ac.il/656/group4/website/jquery.js"></script>
+	<link rel="stylesheet" text="css\text" href="http://aux.shenkar.ac.il/656/group4/website/web_style.css">
+
+</head>
+<body>
+<script>document.write(menu1) </script>
+<br><br><br>
+
+<div id="content_home" >
+    <div class="spacer" ></div>
+	<div id="body1" >
+	<h3 id="body_header"> numbers   </h3><br>
+	<table border="0" style="width:100%">
+		<tr>
+		<td>
+		<h4>תיאור</h4>
+		<p>ישום הגיליון האלקטרוני החדשני ביותר שתוכנן אי פעם למכשיר נייד ונוצר באופן בלעדי עבור אייפון, אייפד </p>
+		<p>ואייפוד-טאץ'. </p>
+		<p>האפליקציה כוללת תמיכה במחוות Multi-Touch וזום חכם, כך שתוכל ליצור גיליונות אלקטרוניים רבי עוצמה</p>
+		<p>רק באמצעות האצבעות.</p>
+		<p>התחל עם אחת מעל ל-30 תבניות Apple המיועדות לתקציב שלך בבית, רשימת תיוג, חשבונית, מחשבון </p>
+		<p>משכנתא, ועוד. </p>
+		<p>בחר מתוך מלמעלה מ- 250 פונקציות רבות עוצמה, הקש כדי להוסיף טבלאות, תרשימים, טקסט ותמונות </p>
+		<p>בכל מקום על הבד בצורה חופשית. </p>
+		<p>פשוט גע וגרור את האצבע שלך וסדר מחדש עמודות ושורות. </p>
+		<p>הקשה כפולה על תא תעלה את המקלדת החכמה התסייע לך להזין טקסט, נוסחאות, תאריכים ושעות, או </p>
+		<p>משך זמן. </p>
+		<p>בנוסף, תוכל להנפיש את הנתונים שלך עם טור אינטראקטיבי, בר, פיזור, ותרשימי בועה הכל עם מנוע חישוב </p>
+		<p>כל חדש מהיר מאי פעם. </p>
+		</td>
+		<td style="max-width: 210px"><div><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/iphone icon/numbers1.png" alt="numbers"  style="float: left; " ></div></td>
+		</tr>
+		<tr>
+		<td> <br>
+<p></p></td>
+		<td style="display: table-cell;
+  vertical-align: top;">
+		<p>גרסא: 2.0.1</p>
+		<p>מחיר:39.90</p>
+		<p>משקל: 234MB</p>
+		<p><div>דירוג:<img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ></div></p>
+		<p></p>
+		</td>
+		</tr>
+	</table>
+	</div> 
+
+    <div class="spacer"></div>
+</div>
+
+<div id=footer1>
+<h2 id="white_head">Follow us</h2>
+	<div id=follow>
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/twitter.png"  alt="twitter">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/instagram.png" alt="instagram">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/facebook.png"  alt="facebook">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/email.png"  alt="e-mail">
+	</div>
+	© ראובן ז'מי - שיטות וכלים לפיתוח אתרי אינטרנט  
+</div>
+</body>
+</html>

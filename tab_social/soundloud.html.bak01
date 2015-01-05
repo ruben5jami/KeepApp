@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html dir=rtl>
+<head>
+<title>favorite - social -  soundcloud </title>
+
+<meta charset="utf-8">
+	<script language="JavaScript" src="http://aux.shenkar.ac.il/656/group4/website/Menu.js"></script>
+	<script src="http://aux.shenkar.ac.il/656/group4/website/jquery.js"></script>
+	<link rel="stylesheet" text="css\text" href="http://aux.shenkar.ac.il/656/group4/website/web_style.css">
+
+</head>
+<body>
+<script>document.write(menu1) </script>
+<br><br><br>
+
+<div id="content_home" >
+    <div class="spacer" ></div>
+	<div id="body1" >
+	<h3 id="body_header">  soundcloud</h3><br>
+	<table border="0" style="width:100%">
+		<tr>
+		<td>
+		<h4>תיאור</h4>
+		<p>בואו לגלות את הדרך הפשוטה והנוחה ביותר לשתף קבצי אודיו ומוזיקה עם קהל גדול!</p>
+		<p> עקוב אחרי אנשים ותאזין  להעלאות החדשות שלהם. </p>
+		<p>קיימת גם כן האפשרות לחיפוש מוזיקה לפי אמנים, יוצרים ז'אנרים ועוד. </p>
+		<p>זו אפליקציה מדהימה למוזיקאים מתחילים הרוצים לשתף את היצירות המוזיקה שלהם ולקבל פלטפורמה </p>
+		<p>לפריצת דרך.  </p>
+		<p> בנוסף, soundcloud מאפשרת ליצור רשימות השמעה וממשיכה לעבוד גם כאשר האפליקציה סגורה. </p>
+		</td>
+		<td style="max-width: 210px"><div><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/iphone icon/soundcloud1.png" alt="hangout"  style="float: left; " ></div></td>
+		</tr>
+		<tr>
+		<td> <br>
+<p></p></td>
+		<td style="display: table-cell;
+  vertical-align: top;">
+		<p>גרסא:2.7.1</p>
+		<p>מחיר: חינם</p>
+		<p>משקל: 14.0MB</p>
+		<p><div>דירוג:<img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ></div></p>
+		<p></p>
+		</td>
+		</tr>
+	</table>
+	</div> 
+
+    <div class="spacer"></div>
+</div>
+
+<div id=footer1>
+<h2 id="white_head">Follow us</h2>
+	<div id=follow>
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/twitter.png"  alt="twitter">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/instagram.png" alt="instagram">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/facebook.png"  alt="facebook">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/email.png"  alt="e-mail">
+	</div>
+	© ראובן ז'מי - שיטות וכלים לפיתוח אתרי אינטרנט  
+</div>
+</body>
+</html>

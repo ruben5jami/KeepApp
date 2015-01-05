@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html dir=rtl>
+<head>
+<title>Home - KeepApp</title>
+
+<meta charset="utf-8">
+	<script language="JavaScript" src="Menu.js"></script>
+	<script src="jquery.js"></script>
+	<link rel="stylesheet" text="css\text" href="web_style.css">
+</head>
+<body>
+<script>document.write(menu1) </script>
+<br><br><br>
+
+<div id="content_home" >
+    <div class="spacer" ></div>
+	<div id="body1" >
+	<h3 id="body_header"> הדרך החכמה ביותר לרכוש אפליקציות </h3><br>
+	<div style="min-height:160px">
+	<p style="float:left"><div><img src="home/ios-7-app-store-2.jpg" alt="iphone 5 picture"  style="float: left" ></div><p>
+	<p>בואו ללמוד על האפלקציות החדשפל, תכירו אפליקציות </p><p>שששששaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaשששששש</p><p>
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+	</div>
+	<hr >
+		<div style="min-height:160px">
+	<p style="float:right" ><img src="home/ipad-mini-white-landscape.png" alt="iphone 5 picture"  style="float: left" ><p>
+	<p dir=ltr>בואו ללמוד על האפלקציות החדשפל, תכירו אפליקציות <br>שששששaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaשששששש<br>
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+	</div>
+	<hr>
+	<div style="min-height:160px">
+	<p style="float:left"><div><img src="home/ipad-mini-landscape.png" alt="iphone 5 picture"  style="float: left" ></div><p>
+	<p>בואו ללמוד על האפלקציות החדשפל, תכירו אפליקציות <br>שששששaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaשששששש<br>
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+	</div>
+		<hr >
+		<div style="min-height:160px">
+	<p style="float:right" ><img src="home/iphone_5C_iOS_7.png" alt="iphone 5 picture"  style="float: left" ><p>
+	<p dir=ltr>בואו ללמוד על האפלקציות החדשפל, תכירו אפליקציות <br>שששששaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaשששששש<br>
+	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+	</div>
+	<hr>
+	
+	</div> 
+
+    <div class="spacer"></div>
+</div>
+
+<div id=footer1>
+<h2 id="white_head">Follow us</h2>
+	<div id=follow>
+<img src="social/twitter.png"  alt="twitter">
+<img src="social/instagram.png" alt="instagram">
+<img src="social/facebook.png"  alt="facebook">
+<img src="social/email.png"  alt="e-mail">
+	</div>
+	© ראובן ז'מי - שיטות וכלים לפיתוח אתרי אינטרנט  
+</div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html dir=rtl>
+<head>
+<title>favorite - utilities - משמרות </title>
+
+<meta charset="utf-8">
+	<script language="JavaScript" src="http://aux.shenkar.ac.il/656/group4/website/Menu.js"></script>
+	<script src="http://aux.shenkar.ac.il/656/group4/website/jquery.js"></script>
+	<link rel="stylesheet" text="css\text" href="http://aux.shenkar.ac.il/656/group4/website/web_style.css">
+
+</head>
+<body>
+<script>document.write(menu1) </script>
+<br><br><br>
+
+<div id="content_home" >
+    <div class="spacer" ></div>
+	<div id="body1" >
+	<h3 id="body_header"> משמרות    </h3><br>
+	<table border="0" style="width:100%">
+		<tr>
+		<td>
+		<h4>תיאור</h4>
+		<p>שוב שכחת לרשום שעות? איבדת את הפתק? האפליקציה הזו בדיוק בשבילך! </p>
+		<p>אפליקציה הכרחית לכל העובדים לפי שעות . </p>
+		<p>עם עיצוב בהיר ופשטני "משמרות" הופכת את העבודה לתענוג. </p>
+		<p>באפליקציה ניתן להגדיר את גובה השכר, נסיעות וזמן הפסקות. </p>
+		<p>בסוף החודש תוכל לדעת בדיוק כמה כסף מגיע לך והאם יש טעויות במשכורת החודשית שלך.</p>
+
+		</td>
+		<td style="max-width: 210px"><div><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/iphone icon/mishmarot1.png" alt="mishmarot"  style="float: left; " ></div></td>
+		</tr>
+		<tr>
+		<td> <br>
+<p></p></td>
+		<td style="display: table-cell;
+  vertical-align: top;">
+		<p>גרסא:1.7</p>
+		<p>מחיר: 3.90</p>
+		<p>משקל: 3.4 MB</p>
+		<p><div>דירוג:<img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ><img src="http://aux.shenkar.ac.il/656/group4/website/favorites/k.png" alt="raiting" ></div></p>
+		<p></p>
+		</td>
+		</tr>
+	</table>
+	</div> 
+
+    <div class="spacer"></div>
+</div>
+
+<div id=footer1>
+<h2 id="white_head">Follow us</h2>
+	<div id=follow>
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/twitter.png"  alt="twitter">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/instagram.png" alt="instagram">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/facebook.png"  alt="facebook">
+<img src="http://aux.shenkar.ac.il/656/group4/website/social/email.png"  alt="e-mail">
+	</div>
+	© ראובן ז'מי - שיטות וכלים לפיתוח אתרי אינטרנט  
+</div>
+</body>
+</html>
